@@ -1,0 +1,56 @@
+# Основное
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Кэширование, выходные данные, временные файлы
+*.log
+*.lock
+*.pdb
+*.mdb
+*.opendb
+*.ide
+*.tlog
+*.log
+*.tmp
+*.tmp_proj
+*.tlog
+*.cache
+*.ilk
+*.idb
+*.tlog
+*.pyc
+
+# Папки для публикации
+publish/
+out/
+
+# Файлы сборки
+*.vspscc
+*.vssscc
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+.nuget/
+packages/
+project.lock.json
+# Если не используете NuGet Package Restore, закомментируйте следующую строку:
+*.dll
+*.exe
+
+# Visual Studio
+.vscode/
+*.VS/
+# Папка Visual Studio Code
+.vscode
+
+# Тестовые данные
+TestResults/

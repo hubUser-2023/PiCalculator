@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PiCalculator", "PiCalculator.csproj", "{DCD004D5-63CF-4DA2-B5DE-66D879F4E726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "..\UnitTest\UnitTest.csproj", "{1B853756-42D7-404C-9334-F06E32799039}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD004D5-63CF-4DA2-B5DE-66D879F4E726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD004D5-63CF-4DA2-B5DE-66D879F4E726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD004D5-63CF-4DA2-B5DE-66D879F4E726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD004D5-63CF-4DA2-B5DE-66D879F4E726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B853756-42D7-404C-9334-F06E32799039}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B853756-42D7-404C-9334-F06E32799039}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B853756-42D7-404C-9334-F06E32799039}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B853756-42D7-404C-9334-F06E32799039}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E60CED2-E3C7-44B5-8C06-CCEE28E9CBF0}
+	EndGlobalSection
+EndGlobal
